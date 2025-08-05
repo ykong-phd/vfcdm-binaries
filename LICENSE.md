@@ -1,4 +1,4 @@
-# VFCDM Compiled Library License  
+# License for VFCDM Compiled Binaries (Non‑Commercial Use Only)
 
 Copyright (c) 2025 Youngsun Kong  
 All rights reserved.
