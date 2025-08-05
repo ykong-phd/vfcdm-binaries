@@ -13,4 +13,5 @@ They are provided **solely for non-commercial, academic, and research use**.
 
 
 For patent-related inquiries, contact: **ki.chon@uconn.edu**
+
 For the other matters, contact: **youngsun.kong.phd@gmail.com**  
