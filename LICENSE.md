@@ -27,7 +27,7 @@ LICENSE, DO NOT INSTALL, USE, OR COPY THE SOFTWARE.
 
 **"Licensor"** shall mean the copyright owner, Youngsun Kong, or any entity authorized by the copyright owner to grant this License.
 
-**"VFCDM Compiled Library"** shall mean the compiled binary files implementing the VFCDM algorithm, including but not limited to the files listed in `PATENT_NOTICE.md`, and any associated compiled components, regardless of platform or file extension.
+**"VFCDM Compiled Library"** — all files in this repository, regardless of platform or file extension.  
 
 **"Non-Commercial Use"** shall mean any use that is not intended for, or directed toward, the generation of revenue, commercial advantage, or monetary compensation, whether direct or indirect, and shall exclude, without limitation, the uses described in Section 2.2.
 
@@ -126,9 +126,6 @@ granted in this License, no rights under any patent are granted, whether by
 implication, estoppel, or otherwise. Any use of the VFCDM compiled library that  
 would infringe on the above patent(s) without a separate, written patent  
 license agreement is expressly prohibited.
-
-The files listed in `PATENT_NOTICE.md` are licensed **only for non-commercial  
-academic and research use**.
 
 ---
 
