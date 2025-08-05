@@ -133,5 +133,7 @@ academic and research use**.
 ---
 
 ## 3. Commercial Licensing
-For inquiries about commercial use or licensing, contact:  
+For patent-related inquiries, contact:  
 **ki.chon@uconn.edu**
+
+For the other matters, contact: **youngsun.kong.phd@gmail.com**  

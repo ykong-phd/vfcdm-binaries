@@ -8,4 +8,5 @@ The following files implement an algorithm covered by U.S. Patent No. **US885845
 
 These files are **not licensed for commercial use**. They may be used **only for academic and research purposes**.
 
-For commercial licensing, contact **ki.chon@uconn.edu**.
+For patent-related inquiries, contact:  
+**ki.chon@uconn.edu**
