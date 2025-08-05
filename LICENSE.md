@@ -130,7 +130,6 @@ license agreement is expressly prohibited.
 ---
 
 ## 3. Commercial Licensing
-For patent-related inquiries, contact:  
-**ki.chon@uconn.edu**
+For patent-related inquiries, contact: **ki.chon@uconn.edu**
 
 For the other matters, contact: **youngsun.kong.phd@gmail.com**  
