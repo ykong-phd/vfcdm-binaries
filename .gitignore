@@ -1,6 +1,7 @@
 # Others
 .DS_Store
 .swap
+.vscode/
 
 # Ignore VFCDM compiled binaries
 vfcdm_binaries/
