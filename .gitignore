@@ -1,0 +1,8 @@
+# Others
+.DS_Store
+.swap
+.so
+.dylib
+.dll
+# Ignore VFCDM compiled binaries
+vfcdm_binaries/
