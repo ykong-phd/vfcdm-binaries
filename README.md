@@ -2,7 +2,7 @@
 
 This repository contains the compiled **VFCDM** library binaries for:
 
-- **macOS (Apple Silicon)** – x64 builds may work via Rosetta, but are not formally tested.  
+- **macOS (Apple Silicon)** – x64 builds may work, but are not formally tested.  
 - **Windows (x64)**  
 - **Linux (x64)**  
 
