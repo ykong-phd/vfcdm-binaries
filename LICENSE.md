@@ -1,4 +1,4 @@
-# VFCDM Compiled Library License  
+# License for VFCDM Compiled Binaries (Non‑Commercial Use Only)
 
 Copyright (c) 2025 Youngsun Kong  
 All rights reserved.
@@ -29,13 +29,13 @@ LICENSE, DO NOT INSTALL, USE, OR COPY THE SOFTWARE.
 
 **"VFCDM Compiled Library"** — all files in this repository, regardless of platform or file extension.  
 
-**"Non-Commercial Use"** shall mean any use that is not intended for, or directed toward, the generation of revenue, commercial advantage, or monetary compensation, whether direct or indirect, and shall exclude, without limitation, the uses described in Section 2.2.
+**"Non-Commercial Use"** shall mean any use that is not intended for, or directed toward, the generation of revenue, commercial advantage, or monetary compensation, whether direct or indirect, and shall exclude, without limitation, the uses described in Section 1.2.
 
 **"Redistribution"** shall mean making the VFCDM compiled library available to any third party in any form, whether by copying, uploading to a public repository, or providing as part of another work.
 
 **"Reverse Engineering"** shall mean decompiling, disassembling, analyzing, or otherwise attempting to derive the source code, algorithms, structure, or design of the VFCDM compiled library.
 
-**"Commercial Use"** shall mean any use described in Section 2.2 as excluded from non-commercial use.
+**"Commercial Use"** shall mean any use described in Section 1.2 as excluded from non-commercial use.
 
 ---
 
@@ -74,7 +74,7 @@ Non-commercial use **does not include**, without limitation:
 
 - **Commercial Use Prohibited**  
   You may not use the VFCDM library for any commercial purpose as defined in  
-  Section 2.2, in whole or in part, without a separate written license agreement.
+  Section 1.2, in whole or in part, without a separate written license agreement.
 
 - **License Inclusion Requirement**  
   This license notice must be included with any authorized copy of the VFCDM compiled library.
